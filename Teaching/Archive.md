@@ -1,4 +1,4 @@
-
+NOTE: Not sure why, but some of the sub-page links didn't get re-written correctly. [Click here for the index](index.md)
 
 * Fall 2015
     * [CPSC 502 - Research Project](http://hcitang.org/502)
