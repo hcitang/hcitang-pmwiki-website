@@ -1,9 +1,4 @@
-title: ''
-author: ''
-appears: ''
-updated: Invalid date
 
----
 
 # Reading and Understanding Related Work
 

@@ -1,9 +1,4 @@
-title: ''
-author: ''
-appears: ''
-updated: Invalid date
 
----
 
 There are three assignments, worth a total of 10 points. Assignment A0 is your bonus assignment.
 

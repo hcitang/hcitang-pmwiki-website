@@ -1,9 +1,4 @@
-title: ''
-author: ''
-appears: ''
-updated: Invalid date
 
----
 
 Chat mania. You will be building all sorts of chat servers and clients.
 

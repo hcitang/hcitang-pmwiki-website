@@ -1,9 +1,4 @@
-title: ''
-author: ''
-appears: ''
-updated: Invalid date
 
----
 
 ## Almost got my PhD, but now what? Career mentoring advice for graduate students considering careers in academia
 

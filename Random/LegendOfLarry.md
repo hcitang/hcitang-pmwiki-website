@@ -1,9 +1,4 @@
-title: ''
-author: ''
-appears: ''
-updated: Invalid date
 
----
 
 Larry has appeared in many publications -- more than most grad students, anyway. This page documents the efforts of various authors helping Larry get published. The scoring mechanism for the game also appears here, though note that this is constantly evolving.
 

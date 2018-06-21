@@ -1,9 +1,4 @@
-title: ''
-author: ''
-appears: ''
-updated: Invalid date
 
----
 
 ## Welcome to the Official HCITangs Club Webpage!
 

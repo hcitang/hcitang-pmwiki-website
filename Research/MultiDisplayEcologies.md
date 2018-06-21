@@ -1,9 +1,4 @@
-title: ''
-author: ''
-appears: ''
-updated: Invalid date
 
----
 
 ## Proximity-Aware Toolkit for Pico-projectors
 

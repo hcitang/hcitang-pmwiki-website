@@ -1,9 +1,4 @@
-title: ''
-author: ''
-appears: ''
-updated: Invalid date
 
----
 
 <table border="1"><tr><td align="center">**Week**</td><td align="center">**Dates**</td><td align="center">**Topic**</td><td align="center">**Presenter**</td><td align="center">**Homework**</td><td align="center">**Project**</td></tr>
 <tr><td align="right">1</td><td align="left">Jan 11,13</td><td align="left">History</td><td align="center">Tony</td><td> </td><td> </td></tr>

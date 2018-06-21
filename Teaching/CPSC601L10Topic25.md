@@ -1,9 +1,4 @@
-title: ''
-author: ''
-appears: ''
-updated: Invalid date
 
----
 
 # CPSC 601.25: Collaborative Computing and Personal Informatics
 

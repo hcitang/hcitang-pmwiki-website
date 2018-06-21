@@ -1,9 +1,4 @@
-title: ''
-author: ''
-appears: ''
-updated: Invalid date
 
----
 
 I am interested in supervising and advising CPSC 502/503 undergrad research projects. Please contact me directly if you are interested.
 

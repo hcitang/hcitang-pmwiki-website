@@ -1,9 +1,4 @@
-title: ''
-author: ''
-appears: ''
-updated: Invalid date
 
----
 
 * **Learning through Video.** Design and run an interview study of how and what kinds of things people learn through YouTube.
 * **Crowdsourced Video Annotation.** Building a highlight reel for a sports game by simply examining the twitter feed for cues as to when interesting events occurred.

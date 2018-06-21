@@ -1,9 +1,4 @@
-title: ''
-author: ''
-appears: ''
-updated: Invalid date
 
----
 
 <table border="0"><tr><td align="center">![](Main/korean-popstar.png) <span style="font-size:83%">The best my hair has ever looked</span> 
 

@@ -1,9 +1,4 @@
-title: ''
-author: ''
-appears: ''
-updated: Invalid date
 
----
 
 Play is a central part of human experience -- not just in a "game" form, but in our everyday interactions. When you make a joke, or play a prank on your friends... these are different forms of play. We are interested in play as a concept in this class because many kinds of play are affected by technology -- if technology is not designed right, then play devolves into something less interesting, or it does not allow for the right kinds of play.
 

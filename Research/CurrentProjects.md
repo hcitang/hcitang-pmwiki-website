@@ -1,9 +1,4 @@
-title: ''
-author: ''
-appears: ''
-updated: Invalid date
 
----
 
 ## [Personal Informatics](PersonalInformatics.md)
 

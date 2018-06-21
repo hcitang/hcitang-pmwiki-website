@@ -1,9 +1,4 @@
-title: ''
-author: ''
-appears: ''
-updated: Invalid date
 
----
 
 * Introduction
     * 1 [slides](Teaching/681-1-intro-to-usability.pptx)

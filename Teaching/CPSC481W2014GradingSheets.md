@@ -1,9 +1,4 @@
-title: ''
-author: ''
-appears: ''
-updated: Invalid date
 
----
 
 Print each of these off when you hand in your project binder, and put this on top.
 

@@ -1,9 +1,4 @@
-title: ''
-author: ''
-appears: ''
-updated: Invalid date
 
----
 
 * [Koji Yatani's Statistics for HCI Research](http://yatani.jp/teaching/doku.php?id=hcistats:start) - Love this as a resource for thinking about statistics tests and their use in HCI research
 

@@ -1,9 +1,4 @@
-title: ''
-author: ''
-appears: ''
-updated: Invalid date
 
----
 
 The project is an important and significant item in the class. It is expected that students devise and complete a project paired with another student, or to work on their own. There are several types of projects which will be acceptable (each idea will need to be discussed and approved by the instructor), though preference will be given to projects that directly address the design problem below.
 

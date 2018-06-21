@@ -1,9 +1,4 @@
-title: ''
-author: ''
-appears: ''
-updated: Invalid date
 
----
 
 Projects follow a fairly regular-ish schedule based on a 6-7 lecture timeframe. Note that this is subject to change on a per-project basis.
 

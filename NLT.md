@@ -1,9 +1,4 @@
-title: ''
-author: ''
-appears: ''
-updated: Invalid date
 
----
 
 Messing around with VisTACO: getting the duration of animation wrong -- emphasizes origin of document items rather than each motion.
 

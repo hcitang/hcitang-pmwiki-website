@@ -1,9 +1,4 @@
-title: ''
-author: ''
-appears: ''
-updated: Invalid date
 
----
 
 * Fall 2015
     * [CPSC 502 - Research Project](http://hcitang.org/502)

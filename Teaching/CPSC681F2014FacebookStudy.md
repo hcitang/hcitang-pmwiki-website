@@ -1,9 +1,4 @@
-title: ''
-author: ''
-appears: ''
-updated: Invalid date
 
----
 
 Facebook and researchers at Cornell published a study on "emotional contagion." [The study is available here.](http://www.pnas.org/content/111/24/8788.full.html)
 

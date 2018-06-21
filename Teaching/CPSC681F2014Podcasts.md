@@ -1,9 +1,4 @@
-title: ''
-author: ''
-appears: ''
-updated: Invalid date
 
----
 
 * Introduction
 * Methodology Overview (2 podcasts)

@@ -1,9 +1,4 @@
-title: ''
-author: ''
-appears: ''
-updated: Invalid date
 
----
 
 We will focus on the use of node.js for the assignments in this class.
 
