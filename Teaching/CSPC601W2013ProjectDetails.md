@@ -1,18 +1,8 @@
 
 
-<div class="toc">
 
-<a name="toc" id="toc"></a>**On this page...** ([hide](javascript:toggle('tocid');))
 
-1.    1.  [Introduction](#toc1)
-
-2.    2.  [Timeline & Deliverables](#toc2)
-
-3.    3.  [Final Project Presentation](#toc3)
-
-4.    4.  [Final Project Paper](#toc4)</div>
-
-# <a name="toc1" id="toc1"></a>1.  Introduction
+#   Introduction
 
 The project will be an important and significant item in the class. It is expected that students devise and complete a project either on their own, or as paired with another student. There are several types of projects which will be acceptable (each idea will need to be discussed and approved by the instructor), though preference will be given to projects that either integrate aspects of the student's ongoing research in a new direction. Acceptable types of projects include, but are not limited to:
 
@@ -40,7 +30,7 @@ Some sample project ideas (I am happy to chat about any of these):
 * NPR and expressivity
 * Styles of "collaborative play" and video game design
 
-# <a name="toc2" id="toc2"></a>2.  Timeline & Deliverables
+#   Timeline & Deliverables
 
 I have noted several "meet with Tony" times through the term. These are short meetings (15-20 mins) to discuss project ideas/work. These meetings are so that both you and I can calibrate our expectations for each milestone.
 
@@ -54,12 +44,12 @@ I have noted several "meet with Tony" times through the term. These are short me
 * Apr 11 & 16: **Project presentations**: 15 minute talk + 5 minutes for questions.
 * Apr 16: **Project report 8-10 pages in [ACM CHI format](http://www.sigchi.org/chipubform)** & archive of materials/software
 
-# <a name="toc3" id="toc3"></a>3.  Final Project Presentation
+#   Final Project Presentation
 
 **Coverage:** I expect you to describe the following: (a) what you are studying; (b) why you are studying it; (c) describe the basics of your study; (d) describe your findings (what you saw) with evidence (e.g. sample quotes, captured video, etc.), and (e) what your findings tell us. If you are building/designing a system, I expect you to discuss the following: (a) what is it that you built; (b) how does this relate to prior systems that have been built, (c) what are the design principles that underlie some of mechanics/what are your goals for your system; (d) design evolution -- how did your design change from its original scope, and (e) what does your design tell us about some theoretical construct?
 **Evaluation:** You will be evaluated on your ability to concisely document your project, method, and results. Your presentation will be graded on your ability to present the project in an engaging and entertaining fashion. You will be critiqued on both the content of the presentation and your delivery.
 
-# <a name="toc4" id="toc4"></a>4.  Final Project Paper
+#   Final Project Paper
 
 * Hand in a print copy of your final paper on the last day of class.
 * Use the [ACM CHI format](http://www.sigchi.org/chipubform)

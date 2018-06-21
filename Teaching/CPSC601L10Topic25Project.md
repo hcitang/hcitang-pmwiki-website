@@ -1,14 +1,8 @@
 
 
-<div class="toc">
 
-<a name="toc" id="toc"></a>**On this page...** ([hide](javascript:toggle('tocid');))
 
-1.    1.  [Introduction](#toc1)
-
-2.    2.  [Timeline & Deliverables](#toc2)</div>
-
-# <a name="toc1" id="toc1"></a>1.  Introduction
+#   Introduction
 
 The project will be an important and significant item in the class. It is expected that students devise and complete a project either on their own, or as paired with another student. There are several types of projects which will be acceptable (each idea will need to be discussed and approved by the instructor), though preference will be given to projects that either integrate aspects of the student's ongoing research in a new direction. Acceptable types of projects include, but are not limited to:
 
@@ -38,7 +32,7 @@ Sample project areas:
 * Ethnographic study of Quantified Selfers (PI people!)
 * Role of personalization in visualizations for personal meaning (not just data, but how it is represented and presented)
 
-# <a name="toc2" id="toc2"></a>2.  Timeline & Deliverables
+#   Timeline & Deliverables
 
 * Jan 19: **Project discussion**: Create three (or more) project ideas, and share them with the class. Describe problem, articulate a potential approach, and how you'd evaluate the idea.
 * Jan 23 (week of): Meet with Tony

@@ -2,27 +2,7 @@
 
 # Assignment 2: A Shared Portholes Experience
 
-<div class="toc">
 
-<a name="toc" id="toc"></a>**On this page...** ([hide](javascript:toggle('tocid');))
-
-1.    1.  [Due Date](#toc1)
-
-2.    2.  [Requirements](#toc2)
-
-3.    3.  [Constraints](#toc3)
-
-4.    4.  [Tip](#toc4)
-
-5.    5.  [Grading](#toc5)
-
-6.    6.  [Bonus (2.5% each)](#toc6)
-
-7.    7.  [Toolkits](#toc7)
-
-8.    8.  [Sample Code](#toc8)
-
-9.    9.  [Resources](#toc9)</div>
 
 At the time Portholes was constructed, system designers did not have a lot of network infrastructure to work with: bandwidth was constrained (3Mbps internal, never mind across the Atlantic), and how to best design these systems was still up for debate (Dourish & Bly, CHI 1992). A system like Portholes was a pretty serious technical achievement.
 
@@ -40,12 +20,12 @@ I HAVE WEBCAMS THAT YOU CAN BORROW
 Shared server is not yet working.
 </pre>
 
-## <a name="toc1" id="toc1"></a>1.  Due Date
+##   Due Date
 
 * Thursday, Feb 17 - Preferred due date (so that you can avoid this colliding with other projects and assignments).
 * Thursday, Mar 3 - I will accept demos and assignments until this date.
 
-## <a name="toc2" id="toc2"></a>2.  Requirements
+##   Requirements
 
 * The system should present itself as a GUI, connecting to the shared server.
 * The system should present all the video feeds that are in the dictionary, as well as all of the text information in the dictionary.
@@ -58,17 +38,17 @@ Shared server is not yet working.
 * If you cannot get the video feed from your webcam, you will need to post an alternating set of 320x240 images at 1fps.
 * Your system should be able to clean the shared dictionary (i.e. the keys/values that it has posted) when the user quits the application.
 
-## <a name="toc3" id="toc3"></a>3.  Constraints
+##   Constraints
 
 * You will need to implement this system using C#. It is probably possible to do it with Mono rather than Microsoft's .NET Framework, but you will need to find your own package to do the webcam grabbing.
 * If you choose to use a different language/platform, this is fine, but PLEASE check with me first.
 
-## <a name="toc4" id="toc4"></a>4.  Tip
+##   Tip
 
 * This programming assingment can be completed using either a full-blown Visual Studio development environment (see Resources below), or by using the less intensive Visual C# Express (both are free to you).
 * Build a WinForms application (avoid building a WPF application unless you are familar with it).
 
-## <a name="toc5" id="toc5"></a>5.  Grading
+##   Grading
 
 I will take two different approaches to grading this assignment. If you're comfortable with where this assignment is headed, I'd recommend the first; if the project seems daunting, I'd recommend the second. They both end in the same place, but approach two will lead you there.
 
@@ -111,26 +91,26 @@ Here, you complete a set of programming problems that will result in your puttin
         * Problem 7: Create a new UI component that has a picturebox and a label (this is used to represent each person). This component should have two public properties: an Image property and a Text property. When either of these are set, then the component should know to redraw itself with the new Image or text label. Add the UI component to your form, and test it. (15%)
         * Problem 8: Create a new program that uses what you know from Problem 6 and the component from Problem 7. For each new user that you see on the server, your system will need to add a new component to the form, and then display the necessary info. When the user leaves, your form should remove the component, too. (see resources on how to add a component to a form programmatically) (25%)</dd></dl>
 
-## <a name="toc6" id="toc6"></a>6.  Bonus (2.5% each)
+##   Bonus (2.5% each)
 
 * Show the age of different pieces of information
 * Allow user to manipulate the display based on the age of information (stale)
 * Provide Notification Collage/MessyBoard-like functionality, allowing users to manipulate the displayed information, arranging it as they see fit
 * Design an "ambient skin" for the information that is abstract somehow (think Mondrian)
 
-## <a name="toc7" id="toc7"></a>7.  Toolkits 
+##   Toolkits 
 
 * [.NetworkingGT](http://grouplab.cpsc.ucalgary.ca/cookbook/index.php/Toolkits/NetworkingGT) - This is the networking toolkit that provides a server, and the programmatic access to the shared dictionary. This page also contains a whole set of tutorials and examples that you can (and should) work/learn from.
 * [Touchless SDK](http://touchless.codeplex.com/) - This toolkit provides easy access to webcams. If you do not have a webcam, you can use a stream of alternating images.
 
-## <a name="toc8" id="toc8"></a>8.  Sample Code
+##   Sample Code
 
 * [Attach:touchlesslib-camerasample.pptx](Teaching/touchlesslib-camerasample.pptx) Slide deck showing how to use the Touchless SDK camera
 * [Attach:CameraSample.zip](Teaching/CameraSample.zip) Shows a simple example of how to use the Touchless SDK
 * [Attach:grouplab.networking.pptx](Teaching/grouplab.networking.pptx) Slide deck showing how to use the Shared Dictionary
 * [Attach:SharedDictionaryExample.zip](Teaching/SharedDictionaryExample.zip) Shows a simple example of connecting to the shared dictionary
 
-## <a name="toc9" id="toc9"></a>9.  Resources
+##   Resources
 
 * [Attach:JPEGEncoderDecoder.zip](Teaching/JPEGEncoderDecoder.zip) A quick sample that shows how to encode and decode an image as a JPEG.
 * [C# Windows Forms Button Samples](http://java2s.com/Code/CSharp/GUI-Windows-Form/Button.htm) - Shows you how to handle an event when someone Clicks a button, and how to add a button to a form. This shows you a simple example of event handling.

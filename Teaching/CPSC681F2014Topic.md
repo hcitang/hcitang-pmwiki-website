@@ -2,23 +2,9 @@
 
 # CPSC 681 - Topic: Presenting a Method
 
-<div class="toc">
 
-<a name="toc" id="toc"></a>**On this page...** ([hide](javascript:toggle('tocid');))
 
-1.    1.  [Introduction](#toc1)
-
-2.    2.  [Deliverables](#toc2)
-
-3.    3.  [Resources](#toc3)
-
-4.    4.  [A note on plagiarism.](#toc4)
-
-5.    5.  [Example topics](#toc5)
-
-6.    6.  [Example](#toc6)</div>
-
-## <a name="toc1" id="toc1"></a>1.  Introduction
+##   Introduction
 
 You will research a particular method as a topic, present that topic to the class, and producing a web-based handout summarizing that topic (including a simple worked example that illustrates how that methodology is applied). 
 
@@ -26,7 +12,7 @@ Depending on the class size, you may be required to do the topic in groups of tw
 
 Your assessment on this component is worth 25% of your grade.
 
-## <a name="toc2" id="toc2"></a>2.  Deliverables
+##   Deliverables
 
 See schedule for tentative dates. All students will deliver written materials (presentations / handouts) on the same date. The date of the actual presentation will be scheduled by the instructor.
 
@@ -41,7 +27,7 @@ See schedule for tentative dates. All students will deliver written materials (p
         * **An annotated bibliography** of several key papers / resources that others can use to help them get started
         * A **professional classroom presentation** that introduces the methodology to the class and that has the class perform or walk through the above exercise of how the methodology is applied on a particular problem.
 
-## <a name="toc3" id="toc3"></a>3.  Resources
+##   Resources
 
 I will be happy to point you to a key resource as a starting point once you have chosen a topic. Ask me! However, you will be expected to find and research other relevant resources on your own.
 
@@ -49,11 +35,11 @@ I will be happy to point you to a key resource as a starting point once you have
 * [Saul's Library](http://saul.cpsc.ucalgary.ca/pmwiki.php/HCIResources/HCIBooksSaulsLibrary) contains a good number of relevant books that you can sign out. This includes textbooks with good introductory chapters on evaluation methods. Browse these for ideas.
 * [Digital Libraries](http://saul.cpsc.ucalgary.ca/pmwiki.php/HCIResources/HCIDigitalLibraries) with HCI content abound, and include many articles illustrating, discussing and applying evaluation methods.
 
-## <a name="toc4" id="toc4"></a>4.  A note on plagiarism.
+##   A note on plagiarism.
 
 You must avoid plagiarism when using the above resources. Use your own words, quote selectively (with citations), and be careful to list your sources. You can selectively use a few images/examples provided by others, but you must cite them appropriately. Plagiarism - whether intentional or accidental - has severe consequences.
 
-## <a name="toc5" id="toc5"></a>5.  Example topics
+##   Example topics
 
 I will select topics from the possible topics listed below. Depending on individual interests, I may focus on some topics over others.
 
@@ -122,7 +108,7 @@ Miscellaneous
 * Ethics</td></tr></table>
 * Based on materials by Saul Greenberg
 
-## <a name="toc6" id="toc6"></a>6.  Example
+##   Example
 
 * Cultural probes [website handout](http://teddyseyed.com) and [presentation](?action=upload&upname=681-topic-example-cultural-probes-presentation.pdf.md)[ Δ](?action=upload&upname=681-topic-example-cultural-probes-presentation.pdf.md)
 * Wizard of Oz [site](http://pages.cpsc.ucalgary.ca/~jiannali/course/wizard_of_oz.html)

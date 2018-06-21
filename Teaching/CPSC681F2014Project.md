@@ -12,19 +12,9 @@ The purpose of this project is to give you experience planning, running, debuggi
 
 Other projects may be proposed that differ from this (see example alternatives at the end of this page). If so, talk to me (and your supervisor!) about it as soon as possible, as my approval is required along with an agreement about deliverables.
 
-<div class="toc">
 
-<a name="toc" id="toc"></a>**On this page...** ([hide](javascript:toggle('tocid');))
 
-1.    1.  [Project Oversight](#toc1)
-
-2.    2.  [Team Composition](#toc2)
-
-3.    3.  [Applying methodological techniques to evaluate situations in human computer interaction](#toc3)
-
-4.    4.  [Alternate projects](#toc4)</div>
-
-## <a name="toc1" id="toc1"></a>1.  Project Oversight
+##   Project Oversight
 
 This is an independent project. While I will review your project as the course proceeds, you are otherwise responsible for all aspects of it.
 
@@ -32,7 +22,7 @@ This is an independent project. While I will review your project as the course p
 * You are responsible for carrying out all aspects of the project (e.g., defining the project, logistics, finding subjects if necessary, booking rooms and equipment, preparing software, getting data analysis tools, etc.).
 * While I will provide high-level guidance through some of your work if needed, I will not hold your hand.
 
-## <a name="toc2" id="toc2"></a>2.  Team Composition
+##   Team Composition
 
 Individual or two-person projects are allowed. Depending on the class size, you may be required to do the topic in groups of two rather than individually. If working as a team:
 
@@ -41,7 +31,7 @@ Individual or two-person projects are allowed. Depending on the class size, you 
 * you must include an initial document that describes how the workload will be managed . I will ask you to update this document as the term progresses to show evidence that the workload is equal and collaborative.
 * With permission from the instructor, you can include people not in the course if it is part of a broader research project, e.g., faculty / senior student mentors .
 
-## <a name="toc3" id="toc3"></a>3.  Applying methodological techniques to evaluate situations in human computer interaction
+##   Applying methodological techniques to evaluate situations in human computer interaction
 
 The problem must be one relevant to human-computer interaction and of interest to you and your team. In practice, the best problem statements are ones that identify a small but interesting problem worth solving that can be realistically solved in the time frame of the course. Be careful of overly-ambitious problems.
 
@@ -145,7 +135,7 @@ Iterate your study and analysis by conducting a more substantial pilot study bas
 * Presentation time is strict, and includes a question period.
 * Powerpoint or other presentation materials must be handed in as instructed in class
 
-## <a name="toc4" id="toc4"></a>4.  Alternate projects
+##   Alternate projects
 
 Depending on your circumstances, you may want to propose a project that differs from what was described above. Some examples are listed below.
 

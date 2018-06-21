@@ -1,14 +1,8 @@
 
 
-<div class="toc">
 
-<a name="toc" id="toc"></a>**On this page...** ([hide](javascript:toggle('tocid');))
 
-1.    1.  [Introduction](#toc1)
-
-2.    2.  [Deliverables](#toc2)</div>
-
-# <a name="toc1" id="toc1"></a>1.  Introduction
+#   Introduction
 
 The project will be an important and significant item in the class. It is expected that students devise and complete a project either on their own, or as paired with another student. There are several types of projects which will be acceptable (each idea will need to be discussed and approved by the instructor), though preference will be given to projects that either integrate aspects of the student's ongoing research in a new direction. Acceptable types of projects include, but are not limited to:
 
@@ -26,7 +20,7 @@ Sample project areas:
 * Communication and coordination in first person shooter games
 * Communication practices of health proxies
 
-# <a name="toc2" id="toc2"></a>2.  Deliverables
+#   Deliverables
 
 * February 10, **Draft Project Proposal** (~1 page): This one-page proposal outlines a potential research question that you are interested in investigating. It potentially lays out the motivation for the work, and some potential objectives.
 * February 24, **Detailed Project Proposal** (~3 - 6 pages): This is your formal project proposal, and _it is a contract._ It lays out the motivation for your work, the objectives, and the research question you are addressing. It spells out the milestones, a schedule for the work you'll deliver, and your deliverables. (I would recommend having a deliverable of some sort _every two weeks._ This helps us to keep our expectations (yours and mine) in sync.
